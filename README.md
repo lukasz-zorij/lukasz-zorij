@@ -1,4 +1,4 @@
-![[https://github.com/lukasz-zorij/lukasz-zorij/raw/refs/heads/main/lz-logo.png]]
+![LZ Logo](https://github.com/lukasz-zorij/lukasz-zorij/blob/main/lz-logo.png)
 
 I'm an independent AI researcher with a passion for futurism and transhumanist philosophy. My background as an IT Architect provides me with a solid foundation in complex systems, which I leverage in my AI explorations. I'm particularly fascinated by natural language processing, compression algorithms, and audio/image processing techniques. My work involves examining how these technologies might converge to push the boundaries of human potential and reshape society.
 
